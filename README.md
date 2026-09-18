@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -45,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
