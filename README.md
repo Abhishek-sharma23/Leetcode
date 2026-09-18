@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
