@@ -6,7 +6,8 @@ class Solution {
             b=-b;
         while(b>0) 
         {
-            if(b%2==1) a=a*x;
+            if(b%2==1) 
+                a=a*x;
             x=x*x;
             b=b/2;
         }
