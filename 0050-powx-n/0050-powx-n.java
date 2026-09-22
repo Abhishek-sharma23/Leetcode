@@ -10,7 +10,8 @@ class Solution {
             x=x*x;
             b=b/2;
         }
-        if(n<0) a=1/a;
+        if(n<0) 
+            a=1/a;
         return a;
     }
 }
