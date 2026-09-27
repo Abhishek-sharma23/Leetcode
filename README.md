@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0258-add-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
