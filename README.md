@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0344-reverse-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek-sharma23/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek-sharma23/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek-sharma23/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
