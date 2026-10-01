@@ -10,7 +10,8 @@ class Solution {
             }
             else
             {
-                if(a.length()==0) return false;
+                if(a.length()==0) 
+                    return false;
                 char top=a.charAt(a.length()-1);
                 if(ch==')'&&top!='('||ch=='}'&&top!='{'||ch==']'&&top!='[')
                     return false;
