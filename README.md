@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0242-valid-anagram) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0217-contains-duplicate) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhishek-sharma23/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
