@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abhishek-sharma23/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishek-sharma23/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishek-sharma23/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhishek-sharma23/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Dynamic Programming
 |  |
