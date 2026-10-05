@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abhishek-sharma23/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishek-sharma23/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Abhishek-sharma23/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishek-sharma23/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhishek-sharma23/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Abhishek-sharma23/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
