@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0414-third-maximum-number) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhishek-sharma23/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishek-sharma23/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhishek-sharma23/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhishek-sharma23/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek-sharma23/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek-sharma23/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhishek-sharma23/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Knapsack Problem
 |  |
 | ------- |
